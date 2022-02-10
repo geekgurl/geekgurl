@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on mini-project face recognition using python. 
 - 🌱 I’m currently learning C, Python, Web Development.
+- 📫 How to reach me:vibha.rani.bareilly@gmail.com.
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
