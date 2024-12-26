@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m worked on projects like face recognition using python,Twitter Sentimental Analysis,Text Classification, Heart disease Prediction along with full stack applications like Inventory Management System . 
-- 🌱 I’m Learned C, C++ , JAVA , Python, Web Development,Machine Learning , Full Stack Applications .
+- 🌱 I Learned C, C++ , JAVA , Python, Web Development,Machine Learning , Full Stack Applications .
 - 📫 How to reach me:vibha.rani.bareilly@gmail.com.
 - ⚡ Hobbies: Cooking,Drawing,Coloring,Nail-Art.
  <!--
